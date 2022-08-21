@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I study Computer Science at Western University and am passionate software development.
+<h2><center>I study Computer Science at Western University and am passionate software development.</center><h2>
 
