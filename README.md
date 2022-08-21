@@ -1,4 +1,4 @@
-<h1>Hi there 👋, I'm Deep Shah</h1>
+<h1 align = 'center';>Hi there 👋, I'm Deep Shah</h1>
 
 <h3 align = 'center';>I study Computer Science at Western University and am passionate for software development.<h2>
  
