@@ -15,5 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3 align = 'center';>I study Computer Science at Western University and am passionate software development.<h2>
+<h3 align = 'center';>I study Computer Science at Western University and am passionate for software development.<h2>
+ 
+  <h3>📫 How to reach me:</h3>
 
