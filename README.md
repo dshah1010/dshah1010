@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Deep Shah
+<h1>Hi there 👋, I'm Deep Shah</h1>
 
 <!--
 **dshah1010/dshah1010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2 align = 'center';>I study Computer Science at Western University and am passionate software development.<h2>
+<h3 align = 'center';>I study Computer Science at Western University and am passionate software development.<h2>
 
