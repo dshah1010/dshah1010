@@ -5,7 +5,7 @@
   <h3>📫 How to reach me:</h3>
   <ul>
    <li>Email: deepshah0803@gmail.com</li>
-   <li>LinkedIn: https://www.linkedin.com/in/deep-shah-17519a213/</li>
-   <li>Website: </li>
+   <li>LinkedIn: linkedin.com/in/dshah1010/</li>
+   <li>Website: dshah.netlify.app</li>
   </ul>
 
