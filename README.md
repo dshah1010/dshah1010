@@ -1,4 +1,4 @@
-<h1 align = 'center';>Hey, I'm Deep! 👋</h1>
+<h1>Hey, I'm Deep! 👋</h1>
 
 🔭 I'm a Computer Science student at Western University who loves to solve problems with software
 
