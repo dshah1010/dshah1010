@@ -1,6 +1,6 @@
-Hey, I'm Parth! 👋
+<h1 align = 'center';>Hey, I'm Deep! 👋</h1>
 
-🔭 I'm a Systems Design Engineering student at the University of Waterloo who loves to solve problems with software
+<h3 align = 'center';>🔭 I'm a Computer Science student at Western University who loves to solve problems with software</h3>
 
 ⚡️ Currently working as a Software Engineer Intern @ Vidyard and seeking SWE internships for Fall 2023
 
@@ -15,7 +15,6 @@ Software Developer Intern @ Ceridian - Winter 2021
 LinkedIn: https://www.linkedin.com/in/parth-29/
 Email: parth.patel@uwaterloo.ca
 
-<h1 align = 'center';>Hi there 👋, I'm Deep Shah</h1>
 
 <h3 align = 'center';>I study Computer Science at Western University and am passionate for software development.<h2>
  
