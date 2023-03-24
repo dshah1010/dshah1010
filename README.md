@@ -6,7 +6,7 @@
 
 💻 Past roles:
   <ul>
-   <li style="color: blue;">Data Engineer Intern @ DesignBot</li>
+  <li><span style="color: blue;">Data Engineer Intern @ DesignBot</span></li>
    <li>Software Engineer Intern @ Project: Human City</li>
   </ul>
 
