@@ -2,10 +2,11 @@
 
 🔭 I'm a Computer Science student at Western University who loves to solve problems with software
 
-⚡️ Currently working as a Software Engineer Intern @ IPEX and seeking SWE/SWD internships for Fall 2023
+⚡️ Currently working as a Software Developer Intern @ Vidyard and seeking SWE/SWD internships for Winter/Summer 2024
 
 💻 Past roles:
   <ul>
+    <li>Software Engineer Intern @ IPEX</li>
    <li>Software Engineer Intern @ Project: Human City</li>
   </ul>
 
