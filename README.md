@@ -6,8 +6,8 @@
 
 💻 Past roles:
   <ul>
-    <li>Software Engineer Intern @ IPEX</li>
-   <li>Software Engineer Intern @ Project: Human City</li>
+    <li>SWE Intern @ IPEX</li>
+   <li>SWE Intern @ Project: Human City</li>
   </ul>
 
 📫 Reach me at:
