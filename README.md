@@ -2,7 +2,7 @@
 
 🔭 I'm a CS student at Western University who loves to solve problems with software
 
-⚡️ Currently working as a SWD Intern @ Vidyard and seeking 2024 SWE/SWD Internships
+⚡️ Currently working as a SWD Intern @ Vidyard and seeking 2024 SWE/SWD/PM Internships
 
 💻 Past roles:
   <ul>
