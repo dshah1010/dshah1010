@@ -1,11 +1,12 @@
 <h1>Hey, I'm Deep! 👋</h1>
 
-🔭 I'm a CS student at Western University who loves to solve problems with software
+🔭 CS student @ Western University
 
-⚡️ Currently working as a SWD Intern @ Vidyard and seeking 2024 SWE/SWD/PM Internships
+⚡️ Seeking 2024 PM/SWE/SWD Internships
 
 💻 Past roles:
   <ul>
+    <li>SWD Intern @ Vidyard</li>
     <li>SWE Intern @ IPEX</li>
    <li>SWE Intern @ Project: Human City</li>
   </ul>
