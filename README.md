@@ -1,8 +1,8 @@
 <h1>Hey, I'm Deep! 👋</h1>
 
-🔭 CS student @ Western University
-
 ⚡️ Seeking 2024 PM/SWE/SWD Internships
+
+🔭 CS student @ Western University
 
 💻 Past roles:
   <ul>
