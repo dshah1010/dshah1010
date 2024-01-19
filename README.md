@@ -1,6 +1,6 @@
 <h1>Hey, I'm Deep! 👋</h1>
 
-⚡️ Seeking 2024 PM/SWE/SWD Internships
+⚡️ Seeking Summer/Spring & Fall 2024 PM/SWE/SWD Internships
 
 🔭 CS student @ Western University
 
