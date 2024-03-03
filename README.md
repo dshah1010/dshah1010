@@ -2,7 +2,7 @@
 
 ⚡️ Seeking Summer/Spring & Fall 2024 PM/SWE/SWD Internships
 
-🔭 CS student @ Western University
+🔭 Third CS student @ Western University
 
 💻 Past roles:
   <ul>
