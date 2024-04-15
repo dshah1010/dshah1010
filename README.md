@@ -2,7 +2,7 @@
 
 ⚡️ Seeking Fall 2024 PM Internships
 
-🔭 CS student @ Western University
+🔭 CS @ Western University
 
 💻 Past roles:
   <ul>
