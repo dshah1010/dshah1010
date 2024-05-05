@@ -6,7 +6,7 @@
 
 💻 Past roles:
   <ul>
-    <li>Incoming Product Manager Intern @ TELUS</li>
+    <li>Product Manager Intern @ TELUS</li>
     <li>Software Developer Intern @ Vidyard</li>
     <li>System Analyst Developer Intern @ IPEX</li>
     <li>Technical Program Manager Intern @ Project: Human City</li>
