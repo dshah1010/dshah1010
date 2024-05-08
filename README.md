@@ -1,6 +1,6 @@
 <h1>Hey, I'm Deep! 👋</h1>
 
-⚡️ Seeking Fall 2024 PM Internships
+⚡️ Seeking Fall 2024 PM/SWE Internships
 
 🔭 CS @ Western University
 
@@ -8,7 +8,7 @@
   <ul>
     <li>Product Manager Intern @ TELUS</li>
     <li>Software Developer Intern @ Vidyard</li>
-    <li>System Analyst Developer Intern @ IPEX</li>
+    <li>Software Engineer Intern @ IPEX</li>
     <li>Technical Program Manager Intern @ Project: Human City</li>
     <li>Project Manager @ Western Developers Society</li>
     <li>Tutor @ Scholars Education</li>
