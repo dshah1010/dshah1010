@@ -23,6 +23,7 @@
    <h3>📫 Get in touch</h3> 
 
 [![linked-in](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dshah1010/)
+[![linked-in](https://img.shields.io/badge/Website-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dshah1010/)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:deepshah0803@gmail.com)
 
 ![](https://komarev.com/ghpvc/?username=jal2003&label=Profile%20Visits&color=blue&style=for-the-badge)
