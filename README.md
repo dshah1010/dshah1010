@@ -4,7 +4,7 @@
 
 🔭 CS @ Western University
 
-💻 Past roles:
+<h3>💻 Past roles</h3>
   <ul>
     <li>Incoming Software Engineer Intern @ TELUS</li>
     <li>Product Manager Intern @ TELUS</li>
@@ -20,7 +20,6 @@
     <li>Game Sales Associate @ Canada's Wonderland</li>
   </ul>
 
-📫 Reach me at:
    <h3>📫 Get in touch</h3> 
 
 [![linked-in](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jal-desai-104580200/)
