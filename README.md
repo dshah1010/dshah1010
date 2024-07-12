@@ -21,8 +21,7 @@
   </ul>
 
 📫 Reach me at:
-  <ul>
-   <li>LinkedIn: https://www.linkedin.com/in/dshah1010/</li>
-   <li>Website: https://dshah.netlify.app</li>
-   <li>Email: deepshah0803@gmail.com</li>
-  </ul>
+   <h3>📫 Get in touch</h3> 
+
+[![linked-in](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jal-desai-104580200/)
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:j9desai@uwaterloo)
