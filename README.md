@@ -1,8 +1,8 @@
 <h1>Hey, I'm Deep! 👋</h1>
 
-⚡️ Seeking Winter 2025 & Spring/Summer 2025 SWE/PM Internships
+<h3>⚡️ Seeking Winter 2025 & Spring/Summer 2025 SWE/PM Internships</h3>
 
-🔭 CS @ Western University
+<h3>🔭 CS @ Western University</h3>
 
 <h3>💻 Past roles</h3>
   <ul>
