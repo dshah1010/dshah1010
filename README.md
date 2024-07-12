@@ -1,11 +1,12 @@
 <h1>Hey, I'm Deep! 👋</h1>
 
-⚡️ Seeking Fall 2024, Winter 2025, & Spring/Summer 2025 SWE/PM Internships
+⚡️ Seeking Winter 2025 & Spring/Summer 2025 SWE/PM Internships
 
 🔭 CS @ Western University
 
 💻 Past roles:
   <ul>
+    <li>Incoming Software Engineer Intern @ TELUS</li>
     <li>Product Manager Intern @ TELUS</li>
     <li>Software Developer Intern @ Vidyard</li>
     <li>Software Engineer Intern @ IPEX</li>
