@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me
 
 - 👋 Hi, my name is Deep Shah and I study CS at Western University
   
@@ -14,7 +14,7 @@
   
      Email: deepshah0803@gmail.com
 
-# 📊 GitHub Stats:
+# 📊 GitHub Stats
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dshah1010&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dshah1010&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
