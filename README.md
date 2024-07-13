@@ -1,8 +1,10 @@
 # 💫 About Me:
 
-- 👋 Hi, my name is Deep Shah and I study CS at Western University. Currently working @ TELUS!
+- 👋 Hi, my name is Deep Shah and I study CS at Western University
+  
+- 🔭 Currently working @ TELUS & seeking Winter 2025 & Spring/Summer 2025 SWE/PM internships
 
-- 👀 I’m interested in software development, AI, and ML. 
+- 👀 I’m interested in software development, AI, and ML 
 
 - 📫 How to reach me:
 
@@ -11,10 +13,6 @@
      Website: https://dshah.netlify.app/
   
      Email: deepshah0803@gmail.com
-  
-<h3>⚡️ Seeking Winter 2025 & Spring/Summer 2025 SWE/PM Internships</h3>
-
-<h3>🔭 CS @ Western University</h3>
 
    <h3>📫 Get in touch</h3> 
 
