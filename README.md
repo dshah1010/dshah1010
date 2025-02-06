@@ -1,8 +1,8 @@
 # 💫 About Me
 
-- 👋 Hi, my name is Deep Shah and I study CS at Western University
+- 👋 hola, my name is deep shah and I study cs @ western university
   
-- 🔭 Currently working @ TELUS & seeking Winter 2025 & Spring/Summer 2025 SWE/PM internships
+- 🔭 incoming swe intern @ bitgo
 
 - 👀 I’m interested in software development, AI, and ML 
 
@@ -13,12 +13,3 @@
      Website: https://dshah.netlify.app/
   
      Email: deepshah0803@gmail.com
-
-# 📊 GitHub Stats
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=dshah1010&theme=radical&hide_border=false)<br/>
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=dshah1010&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-![](https://komarev.com/ghpvc/?username=jal2003&label=Profile%20Visits&color=blue&style=for-the-badge)
