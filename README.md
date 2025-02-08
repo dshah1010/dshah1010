@@ -1,6 +1,6 @@
 # 💫 About Me
 
-- 👋 hola, my name is deep shah and i study cs @ western university
+- 👋 hola, my name is deep shah and i'm studying cs @ western university
   
 - 🔭 incoming swe intern @ bitgo
 
