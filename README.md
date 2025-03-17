@@ -2,7 +2,7 @@
 
 - 👋 hola, my name is deep shah and i'm studying cs @ western university
   
-- 🔭 incoming swe intern @ bitgo
+- 🔭 incoming swe intern @ bitgo, aws
 
 - 👀 i'm interested in software development, ai, and ml 
 
