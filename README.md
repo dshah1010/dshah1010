@@ -6,7 +6,7 @@
 
 - 👀 i'm interested in software development, ai, and ml 
 
-- 📫 Get in touch:
+- 📫 get in touch:
 
      Linkedin: https://www.linkedin.com/in/dshah1010/
   
