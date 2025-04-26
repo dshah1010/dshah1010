@@ -2,7 +2,7 @@
 
 - 👋 Hola, my name is Deep Shah and I'm studying CS @ WesternU
   
-- 🔭 Prev @ TELUS, Vidyard, IPEX
+- 🔭 SWE Intern @ BitGo | Prev @ TELUS, Vidyard, IPEX
 
 - 👀 I'm interested in Software Development, AI, and ML 
 
