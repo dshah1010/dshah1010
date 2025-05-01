@@ -1,12 +1,12 @@
 # 💫 About Me
 
-- 👋 hola, my name is Deep Shah and i'm studying cs @ western u
+- 👋 Hola, my name is Deep Shah and I'm studying CS @ Western University
   
-- 🔭 swe intern @ bitgo | ex-telus, vidyard, ipex
+- 🔭 SWE @ BitGo | Ex-TELUS, Vidyard, IPEX
 
-- 👀 i'm interested in software development, ai, and ml 
+- 👀 I'm interested in Software Development, AI, and ML
 
-- 📫 get in touch:
+- 📫 Get in Touch:
 
      Linkedin: https://www.linkedin.com/in/dshah1010/
   
