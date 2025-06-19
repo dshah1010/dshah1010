@@ -4,7 +4,7 @@
   
 - 🔭 Seeking '26 SWE Internships/New Grad Roles | SWE @ BitGo
 
-- 👀 I'm interested in Software Development, AI, and ML
+- 👀 I'm interested in Software Engineering, AI, and ML
 
 - 📫 Get in Touch:
 
