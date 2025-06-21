@@ -2,7 +2,7 @@
 
 - 👋 Hola, my name is Deep Shah and I'm studying CS @ Western University
   
-- 🔭 Seeking '26 SWE Internships/New Grad Roles | SWE @ BitGo
+- 🔭 Seeking '26 SWE Internships/New Grad Roles | Incoming @ AWS | SWE @ BitGo
 
 - 👀 I'm interested in Software Engineering, AI, and ML
 
