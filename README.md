@@ -4,7 +4,7 @@
   
 - 🔭 Seeking '26 SWE New Grad Roles | Incoming @ Rippling, AWS | SWE @ BitGo
 
-- 👀 I'm interested in Software Engineering, AI, and ML
+- 👀 I'm interested in Software Engineering
 
 - 📫 Get in Touch:
 
