@@ -2,7 +2,7 @@
 
 - 👋 Hola, my name is Deep Shah and I'm studying CS @ Western University
   
-- 🔭 Seeking 2026 New Grad SWE Roles | Incoming @ Rippling | SWE @ AWS
+- 🔭 Incoming @ Rippling, Palantir | SWE @ AWS
 
 - 👀 I'm interested in Software Engineering
 
