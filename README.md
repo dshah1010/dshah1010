@@ -1,6 +1,6 @@
 # 💫 About Me
 
-- 👋 Hola, my name is Deep Shah and I'm studying CS @ Western University
+- 👋 Hola, my name is Deep Shah!
   
 - 🔭 Incoming @ Palantir | SWE @ Rippling
 
