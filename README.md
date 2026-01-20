@@ -2,7 +2,7 @@
 
 - 👋 Hola, my name is Deep Shah!
   
-- 🔭 Incoming @ Palantir | SWE @ Rippling
+- 🔭 SWE @ Rippling
 
 - 👀 I'm interested in Software Engineering
 
