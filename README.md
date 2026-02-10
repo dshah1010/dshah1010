@@ -2,7 +2,7 @@
 
 - 👋 Hola, my name is Deep Shah!
   
-- 🔭 SWE @ Rippling
+- 🔭 SWE
 
 - 👀 I'm interested in Software Engineering
 
