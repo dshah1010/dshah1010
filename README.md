@@ -2,7 +2,7 @@
 
 - 👋 Hola, my name is Deep Shah!
   
-- 🔭 SWE
+- 🔭 Incoming SWE @ Uber 
 
 - 👀 I'm interested in Software Engineering
 
